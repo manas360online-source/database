@@ -4,6 +4,5 @@ __pycache__/
 extract_pdf.py
 extract_pdf_v2.py
 schema_extracted.txt
-MANS360_Sprint9_Database_Schema v2.0.md.pdf
 .DS_Store
 .env
